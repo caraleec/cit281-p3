@@ -21,6 +21,6 @@ After completing this project, you will:
 
 <h3>Code links</h3> 
 <ul>
-  <li><a href="https://caraleec.github.io/cit281-p1/p3-module.js">p3-module.js</a></li>
-  <li><a href="https://caraleec.github.io/cit281-p1/p3-server.js">p3-server.js</a></li>
+  <li><a href="https://caraleec.github.io/cit281-p3/p3-module.js">p3-module.js</a></li>
+  <li><a href="https://caraleec.github.io/cit281-p3/p3-server.js">p3-server.js</a></li>
   
